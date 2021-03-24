@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "promigas-videos-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/promigasVideos/PromigasVideosWebPart.js",
+          "manifest": "./src/webparts/promigasVideos/PromigasVideosWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PromigasVideosWebPartStrings": "lib/webparts/promigasVideos/loc/{locale}.js"
+  }
+}

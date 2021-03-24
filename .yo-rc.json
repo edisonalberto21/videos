@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "promigas-videos",
+    "libraryId": "fe047065-6ece-4a02-8645-eae9bb3df00b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
